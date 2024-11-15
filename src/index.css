@@ -3724,7 +3724,7 @@ select.propety-select-btn {
 
 @media screen and (max-width: 479px) {
   .h1-hero {
-      font-size: 3rem;
+      font-size: 3rem !important;
   }
 }
 @media screen and (max-width: 991px) {
